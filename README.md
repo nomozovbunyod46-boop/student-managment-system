@@ -1,2 +1,2 @@
 # event-management-platform
-A modern full-stack event management platform for event creation, booking, and administration.
+A full-stack web application for creating, managing, and booking events with organizer and participant features.
