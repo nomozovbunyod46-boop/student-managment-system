@@ -1,2 +1,2 @@
-# student-managment-system
-A web-based student managment system built for portfolio and learning purposes
+# event-management-platform
+A web-based student management system built for portfolio and learning purposes.
